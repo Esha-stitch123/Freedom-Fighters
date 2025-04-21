@@ -1,0 +1,24 @@
+h1{
+    font:italic small-caps bold 40px/2 cursive;
+}
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-image:linear-gradient(to right,honeydew,lavenderblush );
+}
+img{
+    float:left;
+    width:20%;
+    padding-right:10px;
+}
+div{
+    position:absolute;
+    width:70%;
+    left:15%;
+    background-color:cornflowerblue;
+    padding:30px;
+    border-style:dotted;
+    border-size:10px;
+}
+iframe{
+    padding:10px;
+}
